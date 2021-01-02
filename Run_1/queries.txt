@@ -1,0 +1,547 @@
+<TOP>
+<UCID>EP-1221372-A2</UCID>
+<TITLE>
+Integrated programmable fire pulse generator for inkjet printhead assembly
+</TITLE>
+<ABSTRACT>
+An inkjet printhead assembly (12) includes at least one inkjet printhead
+(40) having nozzles (13) and firing resisters (48). The inkjet printhead assembly
+includes fire pulse generator circuitry (100/200) responsive to a start fire signal
+to generate fire signals, each having a series of fire pulses. The fire pulse
+generator circuitry generates the fire signals by controlling the initiation and
+duration of the fire pulses. The fire pulses control timing and activation of
+electrical current through the firing resisters to thereby control ejection of ink
+drops from the nozzles. One embodiment of the inkjet printhead assembly
+includes multiple printheads disposed on a carrier (30) to form a wide-array
+inkjet printhead assembly.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1222926-A1</UCID>
+<TITLE>
+Cationic polysaccharide compositions
+</TITLE>
+<ABSTRACT>
+The invention provides a polycation composition comprising a polysaccharide
+chain having an amount of saccharide units ranging from 2 to 2000, at least one
+oligoamine directly grafted to said polysaccharide chain per each segment of 5
+saccharide units, wherein said oligoamine is selected from the group consisting of
+a linear, branched and cyclic alkyl amine having at least two amino groups, and at
+least one further grafted group selected from the group consisting of a hydrophobic
+and an amphiphilic group directly grafted to said polysaccharide chain per each
+segment of 50 saccharide units, wherein said hydrophobic or amphiphilic group
+includes an aliphatic chain of at least 4 carbons atoms.</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1223211-A1</UCID>
+<TITLE>
+Optical diffusing plate, optical element and liquid crystal display
+</TITLE>
+<ABSTRACT>
+An optical diffusing plate is disclosed that gives an
+anisotropic scattering of a linearly polarized light and has
+an excellent diffusion property in a scattering direction,
+and that is suitable for improving visibility and brightness
+of a liquid crystal display. The optical diffusing plate
+comprises a birefringent film (1) and minute domains (e)
+with birefringence characteristics different from those of the
+birefringent film (1) in a dispersed state in the
+birefringent film (1),
+
+wherein the minute domains (e) comprise a side chain type
+liquid crystal polymer comprising a monomer unit
+containing a liquid crystalline fragment side chain and another
+monomer unit containing a non-liquid crystalline fragment
+side chain, and
+
+wherein a first refractive index difference (Δn1), between
+the birefringent film (1) and the minute domains (e) in a
+direction orthogonal to the axial direction which gives
+maximum transmittance of linearly polarized light is 0.03 or
+more, and a second refractive index difference (Δn2), in the
+axial direction which gives maximum transmittance is 80 % or
+less of the first refractive index difference (Δn1).
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1225199-A1</UCID>
+<TITLE>
+Carbon dioxide blown low density, flexible microcellular elastomers suitable for preparing shoe components
+</TITLE>
+<ABSTRACT>
+Microcellular polyurethane flexible foams suitable for use as
+lightweight shoe sole components are produced by dissolving carbon dioxide into one
+or both of the iso-side or resin-side of an isocyanate-prepolymer-based microcellular
+polyurethane foam formulation. The resultant foams possess more uniform cell
+structure and enhanced physical properties as compared to all water-blown foams of
+the same basic formulation and density. The hardness of the foams is more suitable
+for shoe sole, particularly midsole applications, than that of the water-blown foams,
+despite the lower urea hard segment content of the CO</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1225285-A2</UCID>
+<TITLE>
+Improvements in or relating to installations
+</TITLE>
+<ABSTRACT>
+An article, particularly a cable tray 1, for installation on a flat roof 12
+of a building. The article has an underside 10 and a side wall 11 extending
+upwards from the underside. A first part of a piece of fabric 9 extends over
+at least a part of the underside of the article and a second part of the piece
+of fabric extends over at least part of the side wall of the article. The fabric
+acts as a cushion reducing the risk of damage to a surface on which an
+article is installed. The fabric also acts as a wick operative to draw
+moisture away from between an article and a surface on which it is
+installed. The fabric may comprise hydrophilic material, such as polyester,
+and may be non-woven. The article may be moulded and the fabric
+incorporated into the article during moulding.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1225393-A2</UCID>
+<TITLE>
+Flat heating surface type gas stove
+</TITLE>
+<ABSTRACT>
+There is disclosed a novel flat heating surface type gas stove which is capable
+of heating a heating substance across a heat resistance glass at practically
+applicable heating efficiency, overcoming any inconvenience resulting from the
+exposure of flame and facilitating the cleaning of the gas stove. This gas stove
+10 comprises a heat resistance glass top plate 12 which is disposed over a burner
+15, wherein a gas-permeable porous body 40 is disposed below said top plate 12, and
+a space between said top plate 12 and a surface of said gas-permeable porous body
+40 is assigned to a combustion space S. Combustion gas generated is designed to be
+discharged through said gas-permeable porous body 40. As high-temperature
+combustion gas passes through said gas-permeable porous body 40, radiant heat B is
+generated from the surface of said gas-permeable porous body 40. Since the heating
+substance 4 is heated by both of heat conduction and radiation, high heating
+efficiency can be achieved.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1225408-A2</UCID>
+<TITLE>
+Heat exchanger tube
+</TITLE>
+<ABSTRACT>
+A flat, heat exchanger tube formed by rolling metal strip to fold inwardly the
+lateral edge regions of the strip to provide a tube (10) having parallel,
+spaced, generally planar upper and lower walls (11, 12), one of said lateral
+edge regions being bent to define a longitudinally extending partition wall
+(16) extending within the tube (10) towards said lower wall (12), and
+partition wall (16) including first and second longitudinally extending regions
+(16</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1225721-A2</UCID>
+<TITLE>
+Method and device for network device error notification
+</TITLE>
+<ABSTRACT>
+The invention allows error information to be
+communicated to the user easily and rapidly when an
+error occurs at a peripheral device connected to the
+network without requiring dedicated application.
+According to the invention, the state of the peripheral
+device is reported by means of e-mail, and a language
+used in the e-mail is switched.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1226990-A1</UCID>
+<TITLE>
+Air conditioner for vehicle
+</TITLE>
+<ABSTRACT>
+A sub-condenser 4 is disposed in a
+within-vehicle-compartment air passage P1, so that the
+sub-condenser is permitted to receive heat from a heater core
+21.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1227408-A2</UCID>
+<TITLE>
+Text compression options generation
+</TITLE>
+<ABSTRACT>
+A text processor processes text in a
+message. The text processor generates a plurality of
+compressed forms of components of the message. The
+processor performs a linguistic analysis on the body
+of text to obtain a linguistic output indicative of
+linguistic components of the body of text. The
+processor then generates the plurality of compressed
+forms that can be used to compress the body of text.
+The plurality of compressed forms are generated based
+on the linguistic output. The invention can be
+implemented as a method of generating the compressed
+forms and as an apparatus.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1227535-A1</UCID>
+<TITLE>
+Dielectric duplexer and communication apparatus
+</TITLE>
+<ABSTRACT>
+A dielectric duplexer includes a substantially rectangular
+dielectric block (1). The dielectric block includes
+inner-conductor-containing holes (2a - 2f) each having an inner
+conductor (3a - 3f) on the inner surfaces thereof, and
+inner-conductor-unformed portions (4a - 4f) on which the inner
+conductors (3a - 3f) are not formed are formed in the vicinity
+of first ends of the inner-conductor-containing holes (2a - 2f).</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1227598-A2</UCID>
+<TITLE>
+Mobile radio communication apparatus capable to a plurality of radio communication systems
+</TITLE>
+<ABSTRACT>
+A mobile radio communication apparatus comprises a
+wireless transmitter-receiver device (2) configured to
+perform transmission/reception of a radio signal; a
+signal processing device (3) including a resource to
+which functions are defined, wherein the resource
+handles at least a modem function and a protocol
+function, and configured to perform a signal processing
+necessary in the transmission/reception by use of the
+resource; and a controller (4) that controls said
+signal processing device to redefine, to the resource,
+another modem function and another protocol function
+corresponding to respective one of the mobile
+communication systems.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1227628-A2</UCID>
+<TITLE>
+Traffic policing of packet transfer in a dual speed hub
+</TITLE>
+<ABSTRACT>
+A system for policing traffic of packet transfer in a hub. The system includes a
+first circuit and a second circuit and a first data line connecting the first circuit to the
+second circuit, wherein data is transmitted within and between the first circuit and the
+second circuit across said first data line. A second data line connects the first circuit to
+the second circuit, wherein data is transmitted within and between the first circuit and
+the second circuit across the second data line. A monitor monitors the first data line to
+determine when an amount of data being transmitted on the first data line within the first
+circuit has reached a threshold. A blocking mechanism prevents data from being
+transmitted on the first data line from the first circuit to the second circuit when the
+amount of data being transmitted on the first data line has reached the threshold.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1229044-A1</UCID>
+<TITLE>
+Protein having multiple antigen/epitope sequences and being immobilized for the diagnosis of HIV infections
+</TITLE>
+<ABSTRACT>
+The invention relates to a protein having multiple
+antigen/epitope sequences for antibodies, wherein
+the protein is immobilized at a solid phase by at
+least one binding site, and the antigen/epitope sequences
+are spaced by bridge compositions in such a
+way that after binding of the binding site at the
+solid phase the antigen/epitope sequences are exposed
+for a binding of the assigned antibodies from
+the liquid phase.</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1229076-A1</UCID>
+<TITLE>
+Elastomic composition for preparing olefinic elastomer crosslinked foam and use thereof
+</TITLE>
+<ABSTRACT>
+The elastomeric composition for preparing an olefinic
+elastomer crosslinked foam according to the present invention
+contains an ethylene/α-olefin copolymer (A) having a specific
+density and MFR, an organic peroxide (D), a crosslinking
+assistant (E), a foaming agent (F), an organic metal compound
+(G), andas necessary, a high pressure low density polyethylene
+(B) having a specific MFR, and an ethylene/vinyl acetate
+copolymer (C) having a specific amount of vinyl acetate and
+a specific MFR. An olefinic elastomer crosslinked foam of
+the present invention can be obtained by crosslinking and
+foaming the above composition. Further, another olefinic
+elastomer crosslinked foam of the present invention can be
+obtained by a secondary compression of the above crosslinked
+foam. The footwear part of the present invention is made of
+these crosslinked foams. The present invention provides an
+elastomeric composition for preparing an olefinic elastomer
+crosslinked foam that can provide an olefinic elastorner
+crosslinked foam having an Asker C hardness of 20 to 80, a
+low specific gravity, a low compression set, and excellent
+tear strength and impact resilience; and a crosslinked foam
+made of this. Furthermore, the present invention provides
+footwear parts made of the above crosslinked foam.</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1229084-A1</UCID>
+<TITLE>
+Use of hydrolyzed "reactive red 23" (RR23) as dye for ink-jet printing
+</TITLE>
+<ABSTRACT>
+Reactive Red 23 magenta dye that is hydrolyzed to produce a passivated form having
+improved lightfastness in inkjet ink.</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1229164-A2</UCID>
+<TITLE>
+Device for distributing cellulose pulp of low and medium consistency in order to form a uniform pulp web
+</TITLE>
+<ABSTRACT>
+The invention relates to a distributor device for
+cellulose pulp of low and medium consistency, which
+distributor device is used to form a uniform pulp web
+running from the distributor device in an apparatus
+treating the cellulose pulp.</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1229358-A2</UCID>
+<TITLE>
+Composite optical fiber and method for its production
+</TITLE>
+<ABSTRACT>
+An optical fiber composite that can easily have a desired mean transmission
+property as a whole even after a length of optical fiber is cut off from one end or
+both ends, a cable comprising the composites, and methods for producing the
+composite and cable. An optical fiber composite (10) is produced by splicing a
+first optical fiber (11), a second optical fiber (12), and a third optical fiber (13) in this
+order. The first optical fiber (11) and the third optical fiber (13) each have a first
+chromatic dispersion, D</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1229366-A2</UCID>
+<TITLE>
+Fiber optic connector module
+</TITLE>
+<ABSTRACT>
+A fiber optic connector module (24) is provided for
+terminating a fiber optic cable (26) which includes at least
+one inner optical fiber (54,110) surrounded by an outer
+jacket (56). A ferrule (58) is terminated to an end of the
+optical fiber stripped of the jacket. A fixing body (62) is
+fixed to the jacket rearwardly of the ferrule. A housing (68)
+includes a front portion (86) within which the ferrule (58)
+is mounted and a rear portion (88) within which the fixing
+body (62) is mounted. The front portion has an open front end
+(86a) through which a mating end of the ferrule is exposed.
+The rear portion has an open rear end (88a) through which the
+fiber optic cable extends.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1229485-A2</UCID>
+<TITLE>
+Detecting and utilizing add-on information from a scanned document image
+</TITLE>
+<ABSTRACT>
+A scanned document image, including add-on information such as
+handwritten annotations in addition to printed text lines, is processed by a
+handwriting detection method. First, at least one projection histogram is generated
+from the scanned document image. A regular pattern that correlates to the printed
+text lines is determined from the projection histogram. Second, connected
+component analysis is applied to the scanned document image to generate at least
+one merged text line. Each merged text line relates to at least one of the
+handwritten annotation and the printed text line. By comparing the merged text lines
+to the regular pattern of the projection histograms, the printed text lines are
+discriminated from the handwritten annotations.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1229488-A2</UCID>
+<TITLE>
+Information processing method and apparatus
+</TITLE>
+<ABSTRACT>
+An input coordinate sequence is acquired by
+sampling a handwritten input pattern at predetermined
+intervals, and a pattern expressed by this input
+coordinate sequence is approximated by coupling a
+plurality of line segments to attain line segment
+conversion. Adjacent angle data [i] is generated
+based on the directions of the respective line segments.
+At this time, the segment line length along line
+segments of all the line segments is divided by a
+predetermined value at equal intervals, and the angles
+obtained from the directions of the line segments at
+respective division positions are defined as [i].
+This [i] is compared with a standard pattern (adjacent
+angle distribution data) prepared in advance to obtain
+a matching level. In this way, more accurate pattern
+matching for a handwritten input, which is
+approximately invariant to affine transformation and
+can reduce the influence of discretization errors can
+be implemented.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1229754-A1</UCID>
+<TITLE>
+Handover control method, mobile station and communication control apparatus
+</TITLE>
+<ABSTRACT>
+When a handover standby threshold falls
+below a received power of perch channel from a base
+station 150-1 of a communication partner, a mobile
+station 110 sends a handover standby operation
+request to a base station control apparatus 130, and
+notifies of history of movement of itself and
+receives powers of perch channels from base stations
+150-2 - 150-4 surrounding the communication partner
+(mobile station information). The base station
+control apparatus 130 compares the mobile station
+information with history of mobile station
+information so that a handover destination candidate
+base station is selected and sent to the mobile
+station 110. The mobile station 110 switches the
+communication partner to the handover destination
+candidate base station when received power of the
+perch channel from the base station 150-1 falls
+below a handover threshold.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1231064-A2</UCID>
+<TITLE>
+Liquid container, elastic member for liquid container, and recording apparatus
+</TITLE>
+<ABSTRACT>
+A liquid container (2) for an ink jet recording
+apparatus includes a connection opening connectable
+with an outside; an elastic member provided in the
+connection opening, the elastic member being adapted
+to be penetrated by a cylindrical member (7) for fluid
+communication with the outside; the elastic member
+including a compressed region (18) and a substantially non-compressed
+region (19) in a state without the cylindrical
+member penetrated, disposed in this order in a
+direction of insertion of the cylindrical member,
+wherein the compressed region and the non-compressed
+region are capable of being compressed when they are
+penetrated by the cylindrical member.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1231222-A1</UCID>
+<TITLE>
+Room temperature curable compositions
+</TITLE>
+<ABSTRACT>
+A composition comprising (A) a saturated hydrocarbon
+polymer having a number average molecular weight in the
+range of 500-50,000 and bearing at least two hydrolyzable
+silyl groups at an end of the backbone and/or an end of a
+side chain per molecule, (B) an organic compound having at
+least one C=O group in a molecule, and (C) an organic
+compound having at least one NH</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1231486-A1</UCID>
+<TITLE>
+Rod lens array for optical imaging system
+</TITLE>
+<ABSTRACT>
+An optical imaging system is provided that includes
+a rod lens array (2) and has the optimum refractive
+index distribution for achieving a high resolving power.
+The refractive index distribution of rod lenses (1) can
+be expressed by
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1231495-A2</UCID>
+<TITLE>
+Imaging device and method for producing the same
+</TITLE>
+<ABSTRACT>
+An imaging device includes a convex mirror for
+reflecting incident light representing an object, the
+convex mirror having a shape of solid of revolution; an
+imaging mechanism for taking an image represented by
+reflected light from the convex mirror; and an optical
+member for guiding the incident light toward the convex
+mirror and guiding the reflected light toward the imaging
+mechanism, the optical member being in close-contact with
+the convex mirror.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1231669-A1</UCID>
+<TITLE>
+Antenna apparatus
+</TITLE>
+<ABSTRACT>
+An antenna apparatus comprises a substrate (10),
+a chip antenna (12) mounted on the substrate (10), and
+a ground pattern (18) disposed on the substrate, at
+least a portion on the side of a power supply terminal
+(26) of an antenna conductor (22) in the chip antenna
+(12) being overlapped with the ground pattern.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1232866-A1</UCID>
+<TITLE>
+Fluid ejection systems and methods with secondary dielectric fluid
+</TITLE>
+<ABSTRACT>
+A fluid ejection system according to this invention operates on the principle of
+electrostatic or magnetic attraction. In various exemplary embodiments, the fluid
+ejection system includes a sealed diaphragm arrangement having at least one
+diaphragm portion and a diaphragm chamber defined at least partially by the at least
+one diaphragm portion, a nozzle hole located over the at least one diaphragm portion,
+an ejection chamber defined between the nozzle hole and the least one diaphragm
+portion and a secondary dielectric fluid reservoir containing a secondary dielectric
+fluid. The ejection chamber receives a primary fluid to be ejected. The secondary
+dielectric fluid reservoir is in fluid communication with the diaphragm chamber to
+supply the secondary dielectric fluid to the diaphragm chamber. In various exemplary
+embodiments, the secondary dielectric fluid is a liquid, a substantially incompressible
+fluid, and/or a high performance dielectric fluid having a dielectric constant greater
+than 1.
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1233240-A2</UCID>
+<TITLE>
+Absorption type cooling and heating apparatus
+</TITLE>
+<ABSTRACT>
+There are provided a conduit (9b) for transferring a
+refrigerant to the evaporator (9), a conduit (7b) for
+transferring an absorbent solution to the regenerator (3),
+and a branch conduit (9a). A check valve (17) is provided
+for communicating the branch conduit (9a) to the conduit (7b).
+A check valve (V3) is provided for allowing the flow from
+the absorber (2) to the regenerator (3). The valve (17) and
+the valve (V3) are communicated at downstream side to each
+other. Those check valves may be assembled in a single unit
+where a valve is arranged of a (free) ball shape and can
+be shifted by a pressure difference to switches each valve
+port, acting as a three-way valve. At the start-up or full
+condensation mode, the check valve (17) remains open while
+the check valve (V3) is closed. This permits the refrigerant
+to flow from the condenser (9) via the branch conduit (9a)
+to the regenerator (3).
+</ABSTRACT>
+</TOP>
+<TOP>
+<UCID>EP-1233414-A2</UCID>
+<TITLE>
+Data nullification device for nullifying digital content recorded on a recording medium
+</TITLE>
+<ABSTRACT>
+A data nullification device for nullifying target
+data recorded on a recording medium is provided. The
+target data is made up of a plurality of data blocks. A
+judging unit (111) judges, in units of data blocks, whether the
+target data needs to be nullified. A nullifying unit
+nullifies, when a predetermined number of data blocks are
+judged as needing to be nullified or when one or more data
+blocks whose total amount of data reaches a predetermined
+amount are judged as needing to be nullified, the judged
+data blocks.
+</ABSTRACT>
+</TOP>
