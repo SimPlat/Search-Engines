@@ -3,8 +3,21 @@
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 
-# Returns a patent dictionary containing(UCID, Title, Applicants Names/Last-Names, Inventors Names/Last-Names, Abstract)
 def parse_xml(xmlfile):
+   """ 
+   Parse the given XML file.
+   
+   Parameters
+   ----------
+   xmlfile : String
+      Path to XML file.
+   
+   Returns
+   -------
+   patent_dict: Dictionary
+      A patent dictionary containing the UCID, Title, Applicants and Inventors Names/Last-Names, Abstract fields of the patent. 
+   """
+   
    # Create the dict which will hold the fetched data
    patent_dict = defaultdict(list)
    
@@ -41,8 +54,21 @@ def parse_xml(xmlfile):
 
    return patent_dict
 
-# Formats tha patent dictionary data to Trec and saves them in queries.txt 
+
 def transform_to_trec(patent_dict):
+   """ 
+   Transform a patent_dict to TREC format and save it in 'queries.txt'.
+   
+   Parameters
+   ----------
+   xmlfile : Dictionary
+      Python dictionary containing the target fields of the query.
+   
+   Output
+   ------
+   queries.txt: File
+      File containing queries in TREC format.
+   """
    query_file = open('queries.txt','a')
    query_file.write("<TOP>\n")
 
@@ -66,7 +92,7 @@ def transform_to_trec(patent_dict):
    query_file.write("</TOP>\n")
    query_file.close()
 
-# Main
+   
 def main():
    # Target PAC Topics
    pac_topics = []
